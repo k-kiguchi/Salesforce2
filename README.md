@@ -1,2 +1,0 @@
-# Salesforce2
-Salesforceサンプル
