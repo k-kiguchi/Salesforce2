@@ -1,3 +1,3 @@
 public with sharing class SampleController {
-    // ソースを書く
+    // ここにソースを書く
 }
